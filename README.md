@@ -1,4 +1,4 @@
-# Hola-mundo
-Mi repositorio de prueba
+# Hola mundo
+Mi primer repositorio.
 
 Autor: Paúl Eduardo Hernández Ríos  Fecha: 06/02/2022
